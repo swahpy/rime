@@ -39,3 +39,4 @@ patch:
     - { schema: luna_pinyin }
     - { schema: bopomofo }
     - { schema: double_pinyin_mspy }
+    - { schema: xmjd6 }
